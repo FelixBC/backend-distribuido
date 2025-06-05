@@ -1,0 +1,12 @@
+{
+  "name": "processor-service",
+  "version": "1.0.0",
+  "main": "src/worker.js",
+  "scripts": {
+    "start": "node src/worker.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.4.0"
+  }
+}

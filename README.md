@@ -288,5 +288,5 @@ curl -X POST https://xxxxx.execute-api.us-east-1.amazonaws.com/prod/facturar \
   -d '{"orderId":"pedido-aws","payload":{"amount":500}}'
 ```
 ## Licencia
-## Este proyecto se entrega como parte de la asignatura de Arquitectura de Software. No incluye licencia comercial. Cualquier uso fuera de este contexto requiere permiso del autor.
+## Este proyecto se entrega como parte de la asignatura de Algoritmos Paralelos. No incluye licencia comercial. Cualquier uso fuera de este contexto requiere permiso del autor.
 
